@@ -2,57 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://qingyang.fun/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://qingyang.fun/20221201/</loc>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/license/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/release-notes/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/specimen/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/version/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/extensions/admonition/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/extensions/codehilite/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/extensions/footnotes/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/extensions/metadata/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/extensions/permalinks/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://qingyang.fun/extensions/pymdown/</loc>
-         <lastmod>2022-11-10</lastmod>
+         <lastmod>2022-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
